@@ -1,7 +1,9 @@
 ## Discord bot for Final Fantasy 14 Dungeon Guides
 
 
-# `npm install` first and then `npm run watch` and `npm run dev` to get it running locally
+# Getting it running 
+
+`npm install` first and then `npm run watch` and `npm run dev` to get it running locally
 
 
 # Commands
