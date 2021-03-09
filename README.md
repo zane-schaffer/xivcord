@@ -9,6 +9,6 @@
 ### Commands
 `!guide-list` -> outputs list of all available dungeon guides
 
-`!guide <dungeon-name>` -> fetchs guide for <dungeon-name>
+`!guide <dungeon-name>` -> fetchs guide for given dungeon name
 
 `!search <player-name>` -> fetchs info on ff14 character via XIV Api
